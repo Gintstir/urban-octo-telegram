@@ -59,4 +59,4 @@ Finally, an example showing redudant or repetive styles being used in the origin
 
 ## **Credits**
 
-Thanks to UPennLPS Coding Bootcamp.  Thanks to the original creator [Xandromus](https://github.com/Xandromus) of ths [repository](https://github.com/coding-boot-camp/urban-octo-telegram)  used in this assignement.  Thank you to the bootcamp instructors and TA's for all their help along the way ❤.  
+Thanks to UPennLPS Coding Bootcamp.  Thanks to the original creator of the [repository](https://github.com/coding-boot-camp/urban-octo-telegram)  used in this assignment: [Xandromus](https://github.com/Xandromus).  Thank you to the bootcamp instructors and TA's for all their help along the way ❤.  
