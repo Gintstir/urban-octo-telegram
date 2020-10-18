@@ -5,8 +5,8 @@ This is the completed first week challenge for the UPENN LPS Coding bootcamp.  T
 # **Motivation**
 
 The motivation in completing this challenge was multifaceted, in using the "learning by doing" model of this program I was able to encounter new concepts, as well as explore, and expand my growing knowledge of html and css. This included but was not limited to:
-*  Learning about and become better acquainted with accessibility standards for things like screen readers.
-  *  using alt attributes for images.
+- Learning about and become better acquainted with accessibility standards for things like screen readers.
+ -using alt attributes for images.
 *  Impletmenting best practices in using semantic HTML element.
   *  Making sure those elements follow a logical structure.
   *  Making sure all links function properly
