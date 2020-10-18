@@ -9,7 +9,12 @@ The motivation in completing this challenge was multifaceted, in using the "lear
     - using alt attributes for images.
 - Impletmenting best practices in using semantic HTML element.
     - Making sure those elements follow a logical structure.
-    - Making sure all links function properly
+    - Making sure all links function properly.
+- Using proper commentary for both HTML and css.
+- Learning to fork, clone, pull, and push using the command line and [Github](http://github.com).
+- Learning how to publish a finished project to a live URL using Github Pages.
+- Learning the importance of README.md 
+    - successfully using markdown to present a clear and well formatted README.
   
 
 ###  but this will be an h3 heading while the one above should be h2
