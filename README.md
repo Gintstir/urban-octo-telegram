@@ -35,7 +35,7 @@ Here is the revised code:
 >![New-Code](./assets/images/newcode1.png)
 
 Here is an example of the addition of an <alt> tag being implemeted in the refactored code where before there was none:
->![New-alt-tag](./assets/images/newcode2.p)
+>![New-alt-tag](./assets/images/newcode2.png)
 
 Finally, an example showing redudant or repetive styles being used in the original application versus the new concise and consolidated css:
 >![unonsolidated-css](./assets/images/cssold.png "Unconsolidated-css") ![consolidated-css](./assets/images/cssnew.png "consolidated-css") 
