@@ -28,4 +28,6 @@ This project used very basic HTML and CSS.
 # **Screenshots**  
 
 Here are some examples of my work I was able to accomplish in this project:
-- ![Original-Code](/images/carbon(1).png)
+- ![Original-Code](assets/images/carbon (1).png)
+
+
