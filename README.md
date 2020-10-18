@@ -17,6 +17,10 @@ The motivation in completing this challenge was multifaceted, in using the "lear
     - successfully using markdown to present a clear and well formatted README.
   
 
-###  but this will be an h3 heading while the one above should be h2
+# **Build Status**
 
-It works!  *but what happens* if we try to __combine a bunch of different__ elements into the same line including a [link](http://www.google.com)  
+For the pruposes of this weekly challenge this build should be considered complete barring any mistakes or omissions by me.  
+
+# **Code Style**
+
+This project used very basic HTML and CSS.  
