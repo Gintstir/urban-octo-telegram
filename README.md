@@ -28,6 +28,15 @@ This project used very basic HTML and CSS.
 # **Screenshots**  
 
 Here are some examples of my work I was able to accomplish in this project:
-- ![Original-Code](./assets/images/carbon.png)
+Here is an example of the original code which was missing semantic elements and commentary:
+>![Original-Code](./assets/images/carbon.png)
 
+Here is the revised code:
+>![New-Code](./assets/images/newcode1.png)
+
+Here is an example of the addition of an <alt> tag being implemeted in the refactored code where before there was none:
+>![New-alt-tag](./assets/images/newcode2.p)
+
+Finally, an example showing redudant or repetive styles being used in the original application versus the new concise and consolidated css:
+>![unonsolidated-css](./assets/images/cssold.png "Unconsolidated-css") ![consolidated-css](.assets/images/cssnew.png "consolidated-css") 
 
