@@ -51,7 +51,7 @@ Finally, an example showing redudant or repetive styles being used in the origin
 
 ## **Tech Used**
 
-<b>Built With</b>
+- Built With
     - [VS Code](https://code.visualstudio.com/)
     - [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
     - [Wave](https://wave.webaim.org/)
