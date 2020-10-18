@@ -38,5 +38,5 @@ Here is an example of the addition of an <alt> tag being implemeted in the refac
 >![New-alt-tag](./assets/images/newcode2.p)
 
 Finally, an example showing redudant or repetive styles being used in the original application versus the new concise and consolidated css:
->![unonsolidated-css](./assets/images/cssold.png "Unconsolidated-css") ![consolidated-css](.assets/images/cssnew.png "consolidated-css") 
+>![unonsolidated-css](./assets/images/cssold.png "Unconsolidated-css") ![consolidated-css](./assets/images/cssnew.png "consolidated-css") 
 
