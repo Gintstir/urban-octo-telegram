@@ -28,4 +28,8 @@ This project used very basic HTML and CSS.
 # **Screenshots**  
 
 Here are some examples of my work I was able to accomplish in this project:
+<<<<<<< HEAD
 ![Original-Code](/images/carbon(1).png)
+=======
+[Example of original  HTML](https://github.com/Gintstir/weekly-challenge-1/blob/master/assets/images/carbon%20(1).png?raw=true)
+>>>>>>> e041c77a852fd0052c6a381ecff702b38d628e7b
