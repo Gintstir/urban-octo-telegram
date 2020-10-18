@@ -6,7 +6,7 @@ This is the completed first week challenge for the UPENN LPS Coding bootcamp.  T
 
 Here is a link to the [deployed application](https://gintstir.github.io/weekly-challenge-1/) 
 For reference purposes, here is the screenshot provided in the challenge instructions.  The website above should \(at least 90 %\) resemble the included screenshot.
->![Mock-up-for-assignment](./assets/images/01-html-css-git-homework-demo.png)
+>![Mock-up-for-assignment](./assets/images/originalmockup.png)
 
 ## **Motivation**
 
@@ -32,8 +32,11 @@ For the pruposes of this weekly challenge this build should be considered comple
 This project used very basic HTML and CSS.  
 
 ## **Screenshots**  
+This is a screen shot of the deployed website:
+>![Deployed-website](./assets/images/deployedsite.jpeg)
 
-Here are some examples of my work I was able to accomplish in this project:
+Here is a screenshot Here are some examples of my work I was able to accomplish in this project.
+
 Here is an example of the original code which was missing semantic elements and commentary:
 >![Original-Code](./assets/images/carbon.png)
 
